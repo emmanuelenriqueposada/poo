@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "El Quijote",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Cl\u00e1sico",
+        "isbn": "978-3-16-148410-0",
+        "disponible": true
+    },
+    {
+        "id": "2",
+        "titulo": "Harry Poter",
+        "autor": "J. K. Rowling",
+        "categoria": "Suspenso",
+        "isbn": "0-123-45678-9",
+        "disponible": true
+    }
+]
